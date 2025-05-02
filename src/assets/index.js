@@ -29,9 +29,10 @@ import innr from "../assets/company/innr.png"
 import panda from "../assets/company/panda.jpg"
 import neng from "../assets/company/neng.png"
 
-import carrent from "./carrent.png";
+import reactPortfolio from "./reactPortfolio.png";
 import aml from "./aml.png";
 import gemini from "./gemini.png";
+import crudApp from './crudApp.png';
 
 export {
   logo,
@@ -59,10 +60,11 @@ export {
   innr,
   panda,
   neng,
-  carrent,
   aml,
   gemini,
   website,
   ig,
   linkedin,
+  reactPortfolio,
+  crudApp,
 };
